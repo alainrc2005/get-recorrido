@@ -12,7 +12,7 @@ export default {
       try {
         console.info('[GET] initGoogleMap')
         const googleMapScript = document.createElement('SCRIPT'),
-          url = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBZI2rmxyBI54JMfbh7HHpTMUBGDOi55Wg'
+          url = 'https://maps.googleapis.com/maps/api/js?key=APIKEY'
         googleMapScript.setAttribute('src', url)
         googleMapScript.setAttribute('async', '')
         googleMapScript.setAttribute('defer', '')
