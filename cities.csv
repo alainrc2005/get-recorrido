@@ -13,3 +13,18 @@ Dhaka,Dhaka,23.7231,90.4086,Bangladesh,BD,BGD,Dhaka,primary,12797394,1050529279
 Karachi,Karachi,24.8700,66.9900,Pakistan,PK,PAK,Sindh,admin,12130000,1586129469
 Cairo,Cairo,30.0500,31.2500,Egypt,EG,EGY,"Al Qāhirah",primary,11893000,1818253931
 "Rio de Janeiro","Rio de Janeiro",-22.9250,-43.2250,Brazil,BR,BRA,"Rio de Janeiro",admin,11748000,1076887657
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tokyo,Tokyo,35.6850,139.7514,Japan,JP,JPN,Tōkyō,primary,35676000,1392685764
+"New York","New York",40.6943,-73.9249,"United States",US,USA,"New York",,19354922.0,1840034016
+"Mexico City","Mexico City",19.4424,-99.1310,Mexico,MX,MEX,"Ciudad de México",primary,19028000,1484247881
+Mumbai,Mumbai,19.0170,72.8570,India,IN,IND,Mahārāshtra,admin,18978000,1356226629
+"São Paulo","Sao Paulo",-23.5587,-46.6250,Brazil,BR,BRA,"São Paulo",admin,18845000,1076532519
+Delhi,Delhi,28.6700,77.2300,India,IN,IND,Delhi,admin,15926000,1356872604
+Shanghai,Shanghai,31.2165,121.4365,China,CN,CHN,Shanghai,admin,14987000,1156073548
+Kolkata,Kolkata,22.4950,88.3247,India,IN,IND,"West Bengal",admin,14787000,1356060520
+"Los Angeles","Los Angeles",34.1139,-118.4068,"United States",US,USA,California,,12815475.0,1840020491
+Dhaka,Dhaka,23.7231,90.4086,Bangladesh,BD,BGD,Dhaka,primary,12797394,1050529279
+"Buenos Aires","Buenos Aires",-34.6025,-58.3975,Argentina,AR,ARG,"Buenos Aires, Ciudad Autónoma de",primary,12795000,1032717330
+Karachi,Karachi,24.8700,66.9900,Pakistan,PK,PAK,Sindh,admin,12130000,1586129469
+Cairo,Cairo,30.0500,31.2500,Egypt,EG,EGY,"Al Qāhirah",primary,11893000,1818253931
+"Rio de Janeiro","Rio de Janeiro",-22.9250,-43.2250,Brazil,BR,BRA,"Rio de Janeiro",admin,11748000,1076887657
